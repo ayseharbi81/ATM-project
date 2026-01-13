@@ -1,16 +1,42 @@
-# React + Vite
+# 💳 Modern ATM Application
+A sleek ATM simulation built with React, Vite, and TailwindCSS featuring a modern dark-themed UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Features
 
-Currently, two official plugins are available:
+ - 💸 Cash withdrawal with balance validation
+ - 💰 Money deposit functionality
+ - 📊 Balance inquiry
+ - 🔄 Money transfer between accounts
+ - 📜 Transaction history tracking
+ - 🎨 Responsive modern UI with gradient designs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Quick Start
+ - bash# Clone the repository
+ - git clone https://github.com/ayseharbi81/ATM-project.git
 
-## React Compiler
+# Install dependencies
+ - cd ATM-project
+ - npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Start development server
+ - npm run dev 
+ - Visit http://localhost:5173 in your browser.
 
-## Expanding the ESLint configuration
+## 📦 Scripts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ - npm run dev - Start development server
+ - npm run build - Build for production
+ - npm run preview - Preview production build
+
+## 🛠️ Tech Stack
+
+ - React 18.3.1
+ - Vite 6.0.5
+ - TailwindCSS 3.4.17
+
+## 👨‍💻 Developer
+   Ayse Harbi - @ayseharbi81
+
+---
+
+# ⭐ Star this repo if you find it helpful!
